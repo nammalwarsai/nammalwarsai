@@ -9,7 +9,7 @@
 <body>
     <div>
         <div>
-            <img src="https://via.placeholder.com/100" alt="Profile Picture">
+            <img src=url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVjqKBGnv5cRv6zcHpsuP9dZMuVmxy82JUA&s) alt="Profile Picture">
             <h1>Raja Sai Nammalwar Kurapati</h1>
             <p>Web Developer | MERN Stack Enthusiast</p>
         </div>
