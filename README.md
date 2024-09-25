@@ -9,7 +9,7 @@
 <body>
     <div>
         <div>
-            <img src=url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVjqKBGnv5cRv6zcHpsuP9dZMuVmxy82JUA&s) alt="Profile Picture">
+            <img src=url([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVjqKBGnv5cRv6zcHpsuP9dZMuVmxy82JUA&s](https://search.brave.com/images?q=KL+University&context=W3sic3JjIjoiaHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvZW4vdGh1bWIvNy83OC9LTF9Vbml2ZXJzaXR5X2xvZ28uc3ZnLzUxMnB4LUtMX1VuaXZlcnNpdHlfbG9nby5zdmcucG5nIiwidGV4dCI6IktMX1VuaXZlcnNpdHlfbG9nby5zdmciLCJwYWdlX3VybCI6Imh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0tMX1VuaXZlcnNpdHkifV0%3D&sig=50cf10eb79de24703ba383581d8da0364542307ac86b4aff9ef8e579187611dd&nonce=25fcb5e973d87dcb47b907569297d57f&source=infoboxImg)) alt="Profile Picture">
             <h1>Raja Sai Nammalwar Kurapati</h1>
             <p>Web Developer | MERN Stack Enthusiast</p>
         </div>
