@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
 
 #### `KNOWLEDGE IS POWER 💡` 
-- ✨ I’m currently working on great AI & Data Science projects using R & Python.
-- 🌱 I’m currently learning Deep Learning, NLP and more.  
-- 🤔 I’m looking for help with Big Data. 
-- 💬 Ask me about AI , Data science , Electrical Engineering.
-- 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
+- ✨ I’m currently working on FULL STACK DEVELOPMENT PROJECTS
+- 🌱 I’m currently learning new tools and techonologies.
+- 🤔 I’m looking for help with DEVOPS AND CLOUD
+- 💬 Ask me about cloud , AWS AND CLOUD AND EDGE COMPUTING 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/raja-sai-nammalwar-kurapati-9001202a4/">my linkedin profile</a>
 
 
 ### Languages:
@@ -35,40 +35,8 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027233-1f440300-9ecc-11eb-84e3-a72a9fc907db.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027423-5ca89080-9ecc-11eb-90e5-b183abf9420f.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027614-98dbf100-9ecc-11eb-9446-d24fe878417a.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027697-b4df9280-9ecc-11eb-8081-209b0c4ac390.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027795-cde84380-9ecc-11eb-8b0c-c09574c30381.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/124935922-c2f60880-e00e-11eb-8803-dea9f7627ff7.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115031856-4fda6b80-9ed1-11eb-854a-07b9741f7df2.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027840-de002300-9ecc-11eb-9dc0-54c5b13f8ec1.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115393315-36dffc00-a1ea-11eb-86d9-b583bc938afa.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028040-1a338380-9ecd-11eb-986e-c66bb000cdc6.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027898-f40de380-9ecc-11eb-985d-9b1ec5ab1b01.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027978-0851e080-9ecd-11eb-99fd-bb9298477b39.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028247-4fd86c80-9ecd-11eb-9c34-c1ea8f51520a.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028555-ac3b8c00-9ecd-11eb-9577-02ce32d064f9.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028131-333c3480-9ecd-11eb-80ff-73741079df1e.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
 
-### Statistics 📊: 
-
-![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue) 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
-
-<div align="center">
-
-<a href="https://github.com/AI-MOO"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AI-MOO&theme=nord"/>
-<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
-</a>
-
-</div>
-
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AI-MOO&theme=nord)](https://git.io/streak-stats)
-
-</div>
 
 
 
